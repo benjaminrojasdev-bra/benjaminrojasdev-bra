@@ -1,24 +1,26 @@
-# ¡Hola! Soy Benjamín Rojas Aguilera 👋
+# Hi! I'm Benjamín Rojas Aguilera 👋
 
-Estudiante de **Ingeniería en Computación e Informática** (3er año) en Universidad Católica del Norte, Chile 🇨🇱.
-Estoy dando mis primeros pasos construyendo proyectos propios y quiero llegar a desarrollar aplicaciones de las que me sienta orgulloso.
+**Computer Engineering and Informatics** student (3rd year) at Universidad Católica del Norte, Chile 🇨🇱.
+I'm taking my first steps building my own projects, and I want to grow into a developer who builds applications I'm proud of.
 
-## 🔭 Qué estoy haciendo ahora
-- Reforzando mis bases de programación y estructuras de datos
-- Aprendiendo Python aplicado a programación científica
-- Armando mis primeros proyectos personales
+## 🔭 What I'm doing now
+- Strengthening my programming fundamentals and data structures
+- Learning Python applied to scientific programming
+- Building my first personal projects
 
-## 🛠️ Tecnologías con las que he trabajado
-(badges de JavaScript, Python, C++, Git)
+## 🛠️ Technologies I've worked with
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🎯 Objetivos
-- Construir y terminar mis primeros proyectos personales
-- Conseguir una práctica para aprender en un equipo real
+## 🎯 Goals
+- Build and finish my first personal projects
+- Land an internship to learn and grow within a real team
 
-## 📫 Contacto
-- LinkedIn: [tu link]
-- Correo: benjamin.rojas.dev@gmail.com
-
+## 📫 Contact
+- Email: [benjamin.rojas.dev@gmail.com](mailto:benjamin.rojas.dev@gmail.com)
+<!-- - LinkedIn: add your link here when you have it -->
 <!--
 **benjaminrojasdev-bra/benjaminrojasdev-bra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
