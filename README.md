@@ -17,7 +17,7 @@ Estoy dando mis primeros pasos construyendo proyectos propios y quiero llegar a 
 
 ## 📫 Contacto
 - LinkedIn: [tu link]
-- Correo: benjaminrojasdev-bra@gmail.com
+- Correo: benjamin.rojas.dev@gmail.com
 
 <!--
 **benjaminrojasdev-bra/benjaminrojasdev-bra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
